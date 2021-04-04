@@ -3,11 +3,10 @@ body,
 header,
 #intro {
     height: 100%;
-    width: 100%;
 }
 
 #intro {
-    background: url("landingimg/SeaburnExternal.jpg")no-repeat center center fixed;
+    background: url("landingimg/SeaburnExternal.jpg")no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
